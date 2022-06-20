@@ -190,6 +190,10 @@ sub main()
    # The following code is taken from "https://www.perlmonks.org/?node_id=1023151"
    #---------------------------------------------------------
    my $TotalNumArrays = 10;
+   if( scalar @AllCmdToExec < 10 )
+   {
+      $TotalNumArrays = scalar @AllCmdToExec;
+   }
    while( @AllCmdToExec )
    {
       foreach( 0..$TotalNumArrays-1 )
@@ -200,6 +204,9 @@ sub main()
          }
       }
    }
+
+   # Push Pihole RestartDNS (reloads FTL) at the end
+   push @{$AllCmdSplit[$TotalNumArrays-1]}, "pihole restartdns";
 
    if( $__DEBUG__ eq 1 )
    {
