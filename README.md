@@ -20,10 +20,10 @@ When all the files are processed, the script takes all these commands and splits
 Note:
 -------
 Beware that this method is only suitable for small list. If using a large list of domains like from [OISD](https://github.com/sjhgvr/oisd.git), please set them as a host file and then add them using sqlite3 (as in my other PERL script AddList.pl) because it'll take hours to complete.\
-The "MyDomainsToBlock" contains domains I've gathered over the span of a year to block.\
+The "MyDomainsToBlock" contains domains I've gathered over the span of a year to block. It took Pi-Hole 10min to complete all 16000+ domains (81 cmds, 200 domains in each command).
+
 The OISD's dbl_*.txt lists are from [https://github.com/sjhgvr/oisd.git](https://github.com/sjhgvr/oisd.git).\
 I won't update them here unless I update my PERL script. You should:
-
 - Clone that repository (git clone https://github.com/sjhgvr/oisd.git)
 - Use my script with the dbl_*.txt that you want
 - Update that repository every now and then and re-add the domains wtih my script (git pull)
