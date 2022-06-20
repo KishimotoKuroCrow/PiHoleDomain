@@ -1,6 +1,5 @@
 Adds list of domains to PiHole
 -------
-
 sudo ./AddDomain.pl file\
 sudo ./AddDomain.pl file1 file2\
 sudo ./AddDomain.pl *.txt\
@@ -8,12 +7,14 @@ sudo ./AddDomain.pl *.txt anotherfile
 
 Idea behind this script
 -------
-The script reads a list of files containing domains to blacklist using Pi-Hole. For each file, it concatenates 200 domains per command as follows:\
+This script can only be run in Linux (tested under Arch Linux and Raspbian OS).
+
+The script reads a list of files containing domains to blacklist using Pi-Hole. For each file, it concatenates 200 domains per command as follows:
 - pihole -b -nr -q domain0 domain1 ... domain199
 
 If the file has 10020 domains, then it generates 51 commands (the last one has 20 commands).
 
-When all the files are processed, the script takes all these commands and splits them into 10 groups to show the completion rate. The last group contains:\
+When all the files are processed, the script takes all these commands and splits them into 10 groups to show the completion rate. The last group contains:
 - pihole restartdns
 
 Note:
