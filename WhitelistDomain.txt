@@ -1,9 +1,9 @@
+bit.ly
+cdn.optimizely.com
+ow.ly
+split.io
 t.co
 t.ly
-www.bit.ly
-bit.ly
-ow.ly
 tinyurl.com
-cdn.optimizely.com
-split.io
-
+www.bit.ly
+www.inputdirector.com
