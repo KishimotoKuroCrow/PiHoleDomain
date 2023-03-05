@@ -1,2 +1,3 @@
-(\.|^)\.line\.me
-(\.|^)\.line-apps\.com
+(\.|^)line\.me
+(\.|^)line\-apps\.com
+(\.|^)line\-scdn\.net
