@@ -1,4 +1,4 @@
 (\.|^)line\.me
 (\.|^)line\-apps\.com
 (\.|^)line\-scdn\.net
-(\.|^)euyangsang\.com
+(\.|^)euyansang\.com
