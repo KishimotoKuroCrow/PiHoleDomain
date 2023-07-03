@@ -1,4 +1,6 @@
 (\.|^)line\.me
 (\.|^)line\-apps\.com
 (\.|^)line\-scdn\.net
-(\.|^)euyansang\.com
+(\.|^)nvidia\.com
+(\.|^)microsoft\.com
+(\.|^)access\.mcas\.ms
