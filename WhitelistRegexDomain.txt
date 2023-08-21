@@ -4,3 +4,4 @@
 (\.|^)nvidia\.com
 (\.|^)microsoft\.com
 (\.|^)access\.mcas\.ms
+(\.|^)jointhrone\.com
