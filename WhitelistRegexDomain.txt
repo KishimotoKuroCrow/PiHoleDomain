@@ -5,3 +5,5 @@
 (\.|^)microsoft\.com
 (\.|^)access\.mcas\.ms
 (\.|^)jointhrone\.com
+(\.|^)cra\-arc\.gc\.ca
+(\.|^)virtualrecall\.com
