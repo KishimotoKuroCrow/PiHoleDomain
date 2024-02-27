@@ -7,3 +7,5 @@
 (\.|^)jointhrone\.com
 (\.|^)cra\-arc\.gc\.ca
 (\.|^)virtualrecall\.com
+(\.|^)rbcroyalbank\.com
+(\.|^)mondou\.com
