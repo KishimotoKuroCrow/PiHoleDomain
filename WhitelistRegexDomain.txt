@@ -9,3 +9,4 @@
 (\.|^)virtualrecall\.com
 (\.|^)rbcroyalbank\.com
 (\.|^)mondou\.com
+(\.|^)autoalert\.com
