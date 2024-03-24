@@ -10,3 +10,5 @@
 (\.|^)rbcroyalbank\.com
 (\.|^)mondou\.com
 (\.|^)autoalert\.com
+(\.|^)rbc\.com
+(\.|^)royalbank\.com
