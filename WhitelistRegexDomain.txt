@@ -14,3 +14,5 @@
 (\.|^)royalbank\.com
 (\.|^)imgur\.com
 (\.|^)ea\.com
+(\.|^)split\.io
+(\.|^)gvt2\.com
