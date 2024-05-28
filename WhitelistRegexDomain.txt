@@ -12,3 +12,5 @@
 (\.|^)autoalert\.com
 (\.|^)rbc\.com
 (\.|^)royalbank\.com
+(\.|^)imgur\.com
+(\.|^)ea\.com
