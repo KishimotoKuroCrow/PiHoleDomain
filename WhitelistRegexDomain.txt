@@ -16,3 +16,4 @@
 (\.|^)ea\.com
 (\.|^)split\.io
 (\.|^)gvt2\.com
+(\.|^)ueat\.io
