@@ -18,3 +18,8 @@
 (\.|^)gvt2\.com
 (\.|^)ueat\.io
 (\.|^)roblox\.com
+(\.|^)spotify\.com
+(\.|^)spotifycdn\.com
+(\.|^)scdn\.com
+(\.|^|\-)spotify\-com\.akamaized.net
+(\.|^)spotify\-com\.edgesuite.net
