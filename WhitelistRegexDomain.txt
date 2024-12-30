@@ -23,3 +23,4 @@
 (\.|^)scdn\.com
 (\.|^|\-)spotify\-com\.akamaized.net
 (\.|^)spotify\-com\.edgesuite.net
+(\.|^)html\-load\.com
