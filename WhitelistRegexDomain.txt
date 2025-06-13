@@ -19,9 +19,10 @@
 (\.|^)royalbank\.com
 (\.|^)scdn\.com
 (\.|^)split\.io
-(\.|^)spotify\-com\.edgesuite.net
+(\.|^)spotify\-com\.edgesuite\.net
 (\.|^)spotify\.com
 (\.|^)spotifycdn\.com
 (\.|^)ueat\.io
 (\.|^)virtualrecall\.com
-(\.|^|\-)spotify\-com\.akamaized.net
+(\.|^|\-)spotify\-com\.akamaized\.net
+(\.|^|\-)lovecity3d\.com
