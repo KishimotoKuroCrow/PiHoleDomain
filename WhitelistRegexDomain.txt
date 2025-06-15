@@ -26,3 +26,4 @@
 (\.|^)virtualrecall\.com
 (\.|^|\-)spotify\-com\.akamaized\.net
 (\.|^|\-)lovecity3d\.com
+(\.|^|\-)lovecraftgame\.com
